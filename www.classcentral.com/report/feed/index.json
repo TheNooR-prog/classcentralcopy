@@ -1,0 +1,36 @@
+{
+    "tag": "[document]",
+    "children": [
+        {
+            "tag": "html",
+            "children": [
+                {
+                    "tag": "head",
+                    "children": [
+                        {
+                            "tag": "meta",
+                            "attrs": {
+                                "name": "color-scheme",
+                                "content": "light dark"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "body",
+                    "text": "N",
+                    "children": [
+                        {
+                            "tag": "pre",
+                            "attrs": {
+                                "style": "word-wrap: break-word; white-space: pre-wrap;"
+                            },
+                            "text": "N",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
